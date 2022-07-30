@@ -2,7 +2,7 @@
 
 ### Frameworks, librerias y tecnologias usadas:
 - Java 11
-- Lombok
+- Project Lombok
 - Spring Boot
 - Spring Data JPA
 - MySQL
