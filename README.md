@@ -1,2 +1,8 @@
-# API-REST-CRUD-Demo
-Proyecto de API REST CRUD implementando Spring Boot, Lombok, Spring Data JPA para la capa de persistencia y base de datos MySQL
+# Servicio web RESTful para operaciones CRUD
+
+###Frameworks, librerias y tecnologias usadas
+- Java 11
+- Lombok
+- Spring Boot
+- Spring Data JPA
+- MySQL
