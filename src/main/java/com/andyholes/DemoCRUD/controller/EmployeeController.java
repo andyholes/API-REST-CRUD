@@ -10,8 +10,8 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
-@RestController //convierte la clase en controlador spring mvc rest y maneja las peticiones http
-@RequestMapping("/api/v1.0/employees") //defino la url de mi api rest en un formato correcto
+@RestController //convierte la clase en controlador rest y maneja las peticiones http
+@RequestMapping("/api/v1.0/employees") //defino la url de mi api rest en un formato por convencion
 public class EmployeeController {
 
     @Autowired //inyecto dependencias con constructor
